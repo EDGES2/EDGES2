@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I'm a CS student focused on minimalist workflows and hardware technology.
+I'm a CS student focused on hardware architecture, low-level engineering, and terminal-centric workflows.
+- 🔭 I'm currently exploring **FPGA development** and **hardware prototyping**.
+- 🌱 I'm deepening my knowledge of **VHDL** and digital system design.
+- ⚙️ I work daily in a **NeoVim + Bash + Docker** environment and enjoy automating workflows with Python and Shell scripts.
 
-- 🔭 I’m currently exploring **Godot with C#**.
-- 🌱 I’m currently learning more about **Godot** and transitioning from **Zed** to a full **Neovim** setup.
-- ⚙️ I enjoy writing **Python and Shell scripts** to automate my personal workflows.
-
-I also enjoy deep-diving into **hardware technology** and the **Unix "ricing"** community.
+I also enjoy deep-diving into **computer architecture** and the Unix **"ricing"** community.
